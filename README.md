@@ -10,7 +10,7 @@ This project is a simple Netflix clone built using HTML, CSS, and JavaScript. It
 
 ## Demo
 
-You can view a live demo of the Netflix Clone [here](https://your-demo-link.com).
+You can view a live demo of the Netflix Clone [here]( https://tanisha-19-dev.github.io/Netflix-Clone/).
 
 ## Installation
 
